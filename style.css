@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(212, 120, 120, 0);
+    background-color: rgba(32, 32, 32, 0);
     text-align: center;
     }
     
@@ -8,5 +8,5 @@ body {
     }
     
     h1 {
-        font-style: italic;
+        font-style: 30px italic;
     }
