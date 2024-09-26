@@ -1,6 +1,12 @@
-body { background-color: rgba(255, 0, 136, 0.958);} 
-text-align: feComponentTransfer
-}
-header {
-    border:-bottom: solid 2px rgb(red, green, blue)
-}
+body {
+    background-color: rgba(212, 120, 120, 0);
+    text-align: center;
+    }
+    
+    p {
+        color: rgb(98, 149, 162);
+    }
+    
+    h1 {
+        font-style: italic;
+    }
